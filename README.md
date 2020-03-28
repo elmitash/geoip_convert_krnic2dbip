@@ -12,5 +12,6 @@ https://xn--3e0bx5euxnjje69i70af08bea817g.xn--3e0b707e/jsp/statboard/IPAS/ovrse/
 
 DB-IP.com CSV 파일 포맷  
 https://db-ip.com/db/format/ip-to-country-lite/csv.html  
-`8.8.8.0,8.8.8.255,US  `
-
+파일명:dbip-country-lite.csv
+`8.8.8.0,8.8.8.255,US`  
+  
