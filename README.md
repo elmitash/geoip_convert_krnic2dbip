@@ -8,7 +8,7 @@ KRNIC CSV 파일 다운로드 URL
 https://xn--3e0bx5euxnjje69i70af08bea817g.xn--3e0b707e/jsp/statboard/IPAS/ovrse/natal/IPaddrBandCurrentDownload.jsp  
 파일명:ipv4.csv  
 `기준일자,국가코드,시작IP,끝IP,PREFIX,할당일자  
-20160515,IN,14.102.0.0,14.102.127.255,/17,20100913  `
+    20160515,IN,14.102.0.0,14.102.127.255,/17,20100913  `
 
 DB-IP.com CSV 파일 포맷  
 https://db-ip.com/db/format/ip-to-country-lite/csv.html  
