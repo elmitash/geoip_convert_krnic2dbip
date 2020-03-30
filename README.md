@@ -1,7 +1,9 @@
 # geoip_convert_krnic2dbip
-
-> go 언어판에는 실행파일이 있으니 그쪽을 쓰자.
+  
+  
+> go 언어판에는 실행파일이 있으니 그쪽을 쓰자.  
 > [geoip_krnic2dbip](https://github.com/elmitash/geoip_krnic2dbip)
+  
   
 krnic 에서 제공하는 국가별 IP 리스트를 [xtables](https://sourceforge.net/p/xtables-addons/xtables-addons/ci/master/tree/geoip/)의 빌드 스크립트(xt_geoip_build)에서 사용하기 위해 db-ip.com에서 제공하는 csv 파일 포맷으로 변환한다.  
 변환시 같은 국가의 연속 되는 IP 대역은 통합한다.  
